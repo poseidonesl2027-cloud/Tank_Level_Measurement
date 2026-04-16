@@ -46,7 +46,7 @@ Stability
 Accuracy
 Real-world behaviour (not just theory)
 
-⚙️ Typical Pipeline
+**Typical Pipeline**
 raw_level_mm
     ↓
 filtering (median / EMA)
